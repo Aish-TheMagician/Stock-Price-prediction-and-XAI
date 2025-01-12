@@ -10,10 +10,6 @@ This project aims to predict stock prices using machine learning techniques and 
 4. [Model Architecture](#model-architecture)
 5. [Training and Evaluation](#training-and-evaluation)
 6. [Explainable AI (XAI)](#explainable-ai-xai)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Results](#results)
-10. [License](#license)
 
 ## Overview
 
